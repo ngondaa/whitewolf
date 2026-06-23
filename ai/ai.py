@@ -10,7 +10,7 @@ from ollama import chat
 # CONFIG
 # =========================
 
-MODEL = "ministral-3:3b"
+MODEL = "gemma3:1b"
 CHARACTER_FILE = Path("characters/laracroft.txt")
 MEMORY_FILE = Path("memory/chat.json")
 
